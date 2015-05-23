@@ -1,7 +1,7 @@
 # Getting Started With Android Web Service
 
 This project using :
-  - API using PHP FRAMEWORK
+  - API (PHP FRAMEWORK)
   - MYSQL
   - ANDROID
 
