@@ -5,9 +5,6 @@ This project using :
   - MYSQL
   - ANDROID
 
-### Version
-1.0.0
-
 ### Installation
 
 You need Git installed :
@@ -16,6 +13,9 @@ You need Git installed :
 $ git clone git://github.com/isankhairul/AndroidWebService.git AndroidWebService
 $ cd AndroidWebService
 ```
+
+### Version
+1.0.0
 
 
 ### Development
